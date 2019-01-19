@@ -26,7 +26,7 @@ are some reasons for using it:
 3.  MATLAB is an open source programing language, so everyone can add some new
     capabilities on *FEATURESELECT*. After investigating new capabilities, we
     will publish new version of *FEATURESELECT* at
-    https://github.com/yms3786/featureselect.git.
+    https://github.com/LBBSoft/FeatureSelect.
 
 **Installation**
 
@@ -62,9 +62,11 @@ window and use from *FEATURESELECT*. Consider fig.1 and fig.2.
 
 Fig.1: run *FEATURESELECT*
 
-![](media/3d641f7813c92d20cde31ed168939589.png)
+
+![2](https://user-images.githubusercontent.com/42937478/51424379-0e6b9080-1be2-11e9-9373-1a1eee1eb072.jpg)
 
 Fig.2: *FEATURESELECT*
+
 
 Fig.2 shows the *FEATURESELECT* software. This application has several sections:
 
@@ -107,10 +109,12 @@ Fig.2 shows the *FEATURESELECT* software. This application has several sections:
     be written in the related boxes. Also, if you want to apply LIBSVM on the
     all of the features (in other words, if you don’t want feature selection),
     click on the *only apply SVM* button**.**
+    
 
-    ![](media/c7ee1673e9a65c723a4b1fbc8b792974.png)
+    ![3](https://user-images.githubusercontent.com/42937478/51424395-3b1fa800-1be2-11e9-847b-5d21fda363df.jpg)
 
     Fig.3: learning parameters of LIBSVM
+    
 
 5.  **Feature selection method:** Three types of feature selection methods are
     available in *FEATURESELECT*: 1- Wrapper method (optimization algorithm). 2-
@@ -128,7 +132,7 @@ Fig.2 shows the *FEATURESELECT* software. This application has several sections:
     new from such as fig.4 which is result of clicking on WCC algorithm will
     appear. Then you can set the algorithm parameters.
 
-    ![](media/de6ca02bda8354c1a1f1d4b6fdee8170.png)
+    ![4](https://user-images.githubusercontent.com/42937478/51424409-5ab6d080-1be2-11e9-8aca-672c7f253be0.jpg)
 
     Fig.4: WCC's parameters
 
@@ -213,19 +217,20 @@ Fig.2 shows the *FEATURESELECT* software. This application has several sections:
 >   fig.7 are output instances which have been acquired by batch running of the
 >   all algorithms on supposed input file located in *FEATURESELECT* directory.
 
-![F:\\LBB\\feature selection\\matlab\\help\\o1_regression.tif](media/22a41fb605399eb7de659df11e126e77.tiff)
+![5](https://user-images.githubusercontent.com/42937478/51424416-7326eb00-1be2-11e9-90a7-0330ba7b3e2c.jpg)
 
 >   Fig.5: part of *description* file
 
-![F:\\LBB\\feature selection\\matlab\\help\\o2_regression.tif](media/4bf7aebb438f140d04a94cc58f0fecf3.tiff)
+
+![6](https://user-images.githubusercontent.com/42937478/51424428-8c2f9c00-1be2-11e9-969b-3a869218eb55.jpg)
 
 >   Fig.6: part of *tbls* file
 
-![](media/68d4b516b4e6b9c2e9f711de937897e9.tiff)
 
->   F:\\LBB\\feature selection\\matlab\\help\\evaluation.tif
+![7](https://user-images.githubusercontent.com/42937478/51424439-b41eff80-1be2-11e9-8154-43d2db0ec063.jpg)
 
 >   Fig.7: part of *evaluation* file (only for classification)
+
 
 >   Table.1 shows abbreviation used in *FEATURESELECT* and their complete
 >   states.
@@ -263,22 +268,15 @@ Fig.2 shows the *FEATURESELECT* software. This application has several sections:
 >   and ROC space are showed in fig.10. You can modify these plots using
 >   *view/property editor* menu.
 
-![](media/ecde077452f1488148cb67fa14a2bb94.tiff)
 
->   F:\\LBB\\feature selection\\matlab\\help\\classification.tif
-
+![8](https://user-images.githubusercontent.com/42937478/51424446-d57feb80-1be2-11e9-93e8-de34adc13481.jpg)
 >   Fig.8: algorithms output for classification problem
 
-![](media/2130b65b6db5a7d02cd5405e1f1cbe02.tiff)
 
->   F:\\LBB\\feature selection\\matlab\\help\\regression.tif
-
+![9](https://user-images.githubusercontent.com/42937478/51424450-f2b4ba00-1be2-11e9-9d71-b606865b7146.jpg)
 >   Fig.9: algorithms output for regression problem
 
-![](media/58e8c9d0d9c78a46a59001f8e49e1f50.tiff)
-
->   F:\\LBB\\feature selection\\matlab\\help\\ROC.tif
-
+![10](https://user-images.githubusercontent.com/42937478/51424452-07914d80-1be3-11e9-9b14-ec08994037c7.jpg)
 >   Fig.10: ROC plot and ROC space
 
 >   In order to exploit hybrid method, a user can follow the bellow steps which
@@ -286,12 +284,10 @@ Fig.2 shows the *FEATURESELECT* software. This application has several sections:
 
 1.  Selecting ensemble method:
 
-    ![F:\\LBB\\paper files\\help\\En1.tif](media/48b34e512a74983e9ca23c69c4816573.tiff)
-
+   ![11](https://user-images.githubusercontent.com/42937478/51424457-360f2880-1be3-11e9-9e4b-d68c2902227c.jpg)
     Fig.11: Selecting feature selection method
 
 2.  Setting the parameters
 
-    ![F:\\LBB\\paper files\\help\\En2.tif](media/30185610df6c0ddfcd5fc29d22445ca5.tiff)
-
+    ![12](https://user-images.githubusercontent.com/42937478/51424460-52ab6080-1be3-11e9-9a3d-e008663e694a.jpg)
     Fig.12: Setting the parameters of the hybrid method
