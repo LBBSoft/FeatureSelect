@@ -245,7 +245,7 @@ Fig.2 shows the *FEATURESELECT* software. This application has several sections:
 | FPR          | False positive rate       |
 | AL_NAME      | Algorithm name            |
 | PRE          | Precision                 |
-| NOP          | Number of features        |
+| NOF          | Number of features        |
 | ET           | Elapsed time              |
 | ER           | Error                     |
 | CR           | Correlation               |
@@ -255,7 +255,6 @@ Fig.2 shows the *FEATURESELECT* software. This application has several sections:
 | DF           | Degree of freedom         |
 | ANN          | Artificial neural network |
 | DT           | Decision tree             |
-| NOF          | A number of features      |
 
 >   Accuracy convergence, accuracy average convergence (accuracy for all of the
 >   population in specific generation), accuracy stability, error convergence,
