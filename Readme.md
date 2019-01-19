@@ -245,7 +245,7 @@ Fig.2 shows the *FEATURESELECT* software. This application has several sections:
 | FPR          | False positive rate       |
 | AL_NAME      | Algorithm name            |
 | PRE          | Precision                 |
-| NOF          | Number of features        |
+| NOF          | A number of features      |
 | ET           | Elapsed time              |
 | ER           | Error                     |
 | CR           | Correlation               |
