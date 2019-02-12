@@ -12,10 +12,15 @@ features from given feature set. In continue, we describe some aspects of
 *FEATURESELECT*.
 
 **Versions**
+
 Three types of learners are available:
+
 1- MATLAB version which can be opend by MATLAB
+
 2- Java package
+
 3- Python package
+
 4- Stand-alone version which is an EXE file
 
 
