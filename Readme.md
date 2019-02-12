@@ -1,8 +1,8 @@
 **Tutorial for FEATURESELECT**
 
-**Yosef Masoudi-Sobhanzadeha, Habib Motieghadera, Ali Masoudi-Nejada,\***
+**Yosef Masoudi-Sobhanzadeh, Habib Motieghader, Ali Masoudi-Nejad,\***
 
-a Laboratory of system Biology and Bioinformatics, Institute of Biochemistry and
+Laboratory of system Biology and Bioinformatics, Institute of Biochemistry and
 Biophysics, university of Tehran, Tehran, iran.
 
 *FEATURESELECT*, an application for feature selection based on machine learning
@@ -10,6 +10,14 @@ methods, has been developed in laboratory of system biology and bioinformatics
 (LBB). FEATURESELECT can be applied on problems needing to select subset of
 features from given feature set. In continue, we describe some aspects of
 *FEATURESELECT*.
+
+**Versions**
+Three types of learners are available:
+1- MATLAB version which can be opend by MATLAB
+2- Java package
+3- Python package
+4- Stand-alone version which is an EXE file
+
 
 **Implemented language**
 
@@ -28,7 +36,7 @@ are some reasons for using it:
     will publish new version of *FEATURESELECT* at
     https://github.com/LBBSoft/FeatureSelect.
 
-**Installation**
+**To use in MATLAB**
 
 In order to install *FEATURESELECT*, you must provide some requirements:
 
