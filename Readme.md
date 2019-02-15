@@ -21,7 +21,7 @@ Three types of learners are available:
 
 3- Python package
 
-4- Stand-alone version which is an EXE file
+4- Stand-alone version which is an EXE file (64 bits)
 
 
 **Implemented language**
