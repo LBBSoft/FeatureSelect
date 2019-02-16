@@ -21,6 +21,25 @@ Three types of learners are available:
 
 3- Python package
 
+   In order to install and run the python package follow the below steps:
+   
+   a) Execute install commad: 
+         
+         python setup.py install
+   
+   b) Import the package: 
+   
+         import FeatureSelect
+   
+   c) Prepare the FeatureSelect: 
+   
+         FS = FeatureSelect.initialize()
+   
+   d) Run the program: 
+   
+         FS.Selection()
+   
+
 4- Stand-alone version which is an EXE file (64 bits)
 
 
