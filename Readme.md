@@ -13,7 +13,7 @@ features from given feature set. In continue, we describe some aspects of
 
 **Versions**
 
-Three types of learners are available:
+Four versions of FeatureSelect are available:
 
 1- MATLAB version which can be opend by MATLAB
 
@@ -23,9 +23,12 @@ Three types of learners are available:
 
    In order to install and run the python package follow the below steps:
    
-   a) Execute install commad: 
+   a) Execute install command: 
          
          python setup.py install
+   
+   After installation, run FeatureSelect as the below:
+   
    
    b) Import the package: 
    
@@ -64,7 +67,8 @@ are some reasons for using it:
 
 In order to install *FEATURESELECT*, you must provide some requirements:
 
-1.  Install WINSDK.1 in windws or MinGW in linux that include C++ compiler
+1.  Install WINSDK.1 in windws or MinGW in linux
+hat include C++ compiler
 
 2.  Install MATLAB
 
