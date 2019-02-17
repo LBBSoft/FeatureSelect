@@ -52,7 +52,7 @@ MATLAB programing language is used for implementing of *FEATURESELECT*. There
 are some reasons for using it:
 
 1.  Because MATLAB is common programing language in different sciences,
-    *FEATURESLECT* has been implemented in t. *FEATURESELECT* can be applied on
+    *FEATURESLECT* has been implemented in it. *FEATURESELECT* can be applied on
     various areas such as biological data, image processing, handwrite
     detection, computer science and many other fields.
 
