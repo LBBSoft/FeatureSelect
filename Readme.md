@@ -13,11 +13,64 @@ features from given feature set. In continue, we describe some aspects of
 
 **Versions**
 
-Four versions of FeatureSelect are available:
+Four versions of FeatureSelect, which are based on MATLAB run time, are available:
 
 1- MATLAB version which can be opend by MATLAB
 
 2- Java package
+
+   In order to install and run the javapackage follow the bellow steps:
+   
+   2-1 copy FeatureSelect.jar to mcroot-toolbox-javabuilder-jar  where mcroot is root of MATLAB run time
+   
+   2-2 Run cmd as adiministrator
+   
+   2-3 Write a java program and save it FeatureS.java like the below:
+   
+         import FeatureSelect.*;
+         
+         import com.mathworks.toolbox.javabuilder.*;
+         
+         public class FeatureS
+         
+         {
+         
+            public static void main(String[] args)
+            
+            {
+            
+               Class1 FS=null;
+               
+               try
+               
+               {
+               
+                  FS= new Class1();
+                  
+                  FS.Call_FS();
+                  
+               }
+               
+               catch (Exception e)
+               
+               {
+               
+                  System.out.println("Exception: " + e.toString());
+                  
+               }
+
+            }
+            
+         }
+         
+   
+   2-4 Execute the following command
+   
+      javac -classpath "javabuilder.jar";.\FeatureSelect.jar FeatureS.java
+      
+   2-5 Execute the following command
+   
+      java -classpath .;"javabuilder.jar";.\FeatureSelect.jar FeatureS
 
 3- Python package
 
