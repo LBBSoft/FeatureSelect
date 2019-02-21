@@ -23,9 +23,8 @@ Four versions of FeatureSelect, which are based on MATLAB run time, are availabl
    
    2-1 copy FeatureSelect.jar to mcroot/toolbox/javabuilder/jar  where mcroot is root of MATLAB run time
    
-   2-2 Run cmd as adiministrator
    
-   2-3 Write a java program and save it FeatureS.java like the below:
+   2-2 Write a java program and save it FeatureS.java like the below:
    
          import FeatureSelect.*;
          
@@ -63,6 +62,8 @@ Four versions of FeatureSelect, which are based on MATLAB run time, are availabl
             
          }
          
+   
+   2-3 Run cmd as adiministrator
    
    2-4 Execute the following command
    
