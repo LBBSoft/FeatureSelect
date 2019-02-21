@@ -21,7 +21,7 @@ Four versions of FeatureSelect, which are based on MATLAB run time, are availabl
 
    In order to install and run the javapackage follow the bellow steps:
    
-   2-1 copy FeatureSelect.jar to mcroot-toolbox-javabuilder-jar  where mcroot is root of MATLAB run time
+   2-1 copy FeatureSelect.jar to mcroot/toolbox/javabuilder/jar  where mcroot is root of MATLAB run time
    
    2-2 Run cmd as adiministrator
    
